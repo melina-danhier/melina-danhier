@@ -4,7 +4,7 @@ Ich bin Informatikstudentin kurz vor dem Bachelorabschluss und interessiere mich
 
 Mein fachlicher Schwerpunkt liegt auf **Java**, **Spring Boot** und der Entwicklung datenbankgestützter Webanwendungen. In eigenen Projekten beschäftige ich mich unter anderem mit REST APIs, Softwarearchitektur, Datenbankintegration, Security, Testing und Deployment.
 
-📅 **Ab Oktober 2026 suche ich eine Einstiegsposition in der Softwareentwicklung – besonders im Java-, Backend- oder Full-Stack-Umfeld.**
+📅 **Ab November 2026 suche ich eine Einstiegsposition in der Softwareentwicklung – besonders im Java-, Backend- oder Full-Stack-Umfeld.**
 
 ---
 
@@ -89,6 +89,6 @@ Anwendung zur Unterstützung und Verwaltung von Bewerbungsprozessen. Das Projekt
 
 ## Berufliches Ziel
 
-Ab Oktober 2026 suche ich eine Einstiegsposition als **Softwareentwicklerin**.
+Ab Novermber 2026 suche ich eine Einstiegsposition als **Softwareentwicklerin**.
 
 Besonders interessieren mich Stellen in der **Java-, Backend- oder Full-Stack-Entwicklung**. Ich bin außerdem offen für angrenzende Technologien und Aufgaben, wenn die Position echte Softwareentwicklung, gute Lernmöglichkeiten und die Zusammenarbeit in einem unterstützenden Team bietet.
