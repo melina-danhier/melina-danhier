@@ -1,94 +1,75 @@
 # Hi, ich bin Melina 👋
 
-Ich bin Informatikstudentin kurz vor dem Bachelorabschluss und interessiere mich für die Entwicklung moderner, praxisnaher Softwarelösungen.
+**Informatikstudentin | Java Backend Development | Spring Boot | React**
 
-Mein fachlicher Schwerpunkt liegt auf **Java**, **Spring Boot** und der Entwicklung datenbankgestützter Webanwendungen. In eigenen Projekten beschäftige ich mich unter anderem mit REST APIs, Softwarearchitektur, Datenbankintegration, Security, Testing und Deployment.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melina_Danhier-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/melina-danhier)
+[![Email](https://img.shields.io/badge/Email-Kontaktieren-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melinadanhier@gmail.com)
 
-📅 **Ab November 2026 suche ich eine Einstiegsposition in der Softwareentwicklung – besonders im Java-, Backend- oder Full-Stack-Umfeld.**
+## ✨ Über mich
 
----
+- 🎓 **Studium:** Informatik (B. Sc.) an der Universität Trier
+- 📝 **Status:** Bachelorarbeit abgegeben; Kolloquium und Abschlussnote stehen noch aus
+- 💼 **Verfügbarkeit:** Ab sofort für den Berufseinstieg in der Java-Backend- oder Full-Stack-Entwicklung
+- 💻 **Schwerpunkt:** Java, Spring Boot, REST-APIs und relationale Datenbanken
+- 🌐 **Aktuelle Vertiefung:** React und TypeScript für die Full-Stack-Entwicklung
 
-## Über mich
+## 🛠️ Tech Stack & Kenntnisse
 
-- 🎓 Informatikstudentin an der Universität Trier
-- 💻 Schwerpunkt auf **Java**, **Spring Boot** und moderner Webentwicklung
-- 🧩 Interesse an sauber strukturiertem Code, durchdachten Datenmodellen und benutzerfreundlicher Software
-- 🛠️ Praktische Erfahrung durch eigene Softwareprojekte und meine Bachelorarbeit
-- 🌱 Freude daran, neue Technologien kennenzulernen und mich in unbekannte Themen einzuarbeiten
-- 📫 LinkedIn: [Melina Danhier](https://www.linkedin.com/in/melina-danhier)
+**Backend**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge)
 
-## Tech Stack
+**Datenbanken & Tools**
 
-### Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
-![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+**Frontend**
 
-### Datenbanken und Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-004088?style=flat)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+## 📌 Ausgewählte Projekte
 
-### Frontend
+### [ProjectFlow – KI-gestützte Projektplanung](https://github.com/melina-danhier/project-flow)
 
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- Erstellt Projektpläne über einen geführten Wizard, Vorlagen oder KI-Unterstützung
+- Generiert Aufgaben und Meilensteine; KI-Vorschläge bleiben bis zur manuellen Prüfung und Übernahme Entwürfe
+- Unterstützt Aufgabenabhängigkeiten, Zuständigkeiten, Prioritäten und Status
 
-### Testing und Entwicklung
+**Technologien:** Java 21, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Flyway, Docker, JUnit
 
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+[Live-Demo](https://project-flow-vqbv.onrender.com/)
 
----
+### [JobTrail – Bewerbungsmanagement als REST-API](https://github.com/melina-danhier/job-trail)
 
-## Projekte
+- Bietet eine REST-API zur Verwaltung von Unternehmen, Bewerbungen und Bewerbungsstatus
+- Implementiert JWT-Authentifizierung und benutzerspezifische Zugriffskontrolle
+- Ergänzt die Verwaltung um eine optionale KI-gestützte Analyse der Stellenpassung
 
-### [ProjectFlow – Bachelorarbeitsprojekt](https://github.com/melina-danhier/project-flow)
+**Technologien:** Java 21, Spring Boot, Spring Security, JWT, JPA/Hibernate, PostgreSQL, Flyway, MapStruct, JUnit, Mockito
 
-Anwendung zur strukturierten Verwaltung kleiner Projekte und Aufgaben. Im Mittelpunkt stehen wiederverwendbare Templates, eine übersichtliche Projektstruktur und eine benutzerfreundliche Bedienung.
+### [SQL Analyzer – Analyse von SQL- und Hibernate-Logs](https://github.com/melina-danhier/sql-analyzer)
 
-**Tech Stack:** Java, Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL und Flyway
+- Analysiert SQL- und Hibernate-Logs direkt im Browser
+- Erkennt N+1-Queries, wiederholte Datenbankoperationen und potenziell riskante SQL-Anweisungen, etwa `UPDATE` oder `DELETE` ohne `WHERE`-Klausel
+- Bereitet Analyseergebnisse strukturiert auf und ermöglicht den Export als Markdown
 
-### [Notes Web App](https://github.com/melina-danhier/notes-web)
+**Technologien:** React, TypeScript, Vite, Tailwind CSS
 
-Webanwendung zur Verwaltung persönlicher Notizen mit Login, Tags, Suche, Pagination und Datenbankanbindung. Bei der Entwicklung beschäftige ich mich besonders mit Spring Security, DTOs und einer klaren Schichtenarchitektur.
+[Live-Demo](https://melina-danhier.github.io/sql-analyzer/)
 
-**Tech Stack:** Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Thymeleaf, Bootstrap und Docker
 
-### [JobTrail](https://github.com/melina-danhier/job-trail)
-
-Anwendung zur Unterstützung und Verwaltung von Bewerbungsprozessen. Das Projekt verbindet Profil- und Stelleninformationen mit einem Konzept für KI-gestütztes Job-Matching.
-
-**Tech Stack:** Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate und PostgreSQL
-
----
-
-## Aktueller Fokus
-
-- Weiterentwicklung meiner Kenntnisse in **Java und Spring Boot**
-- Vertiefung von **JPA/Hibernate** und **Spring Security**
-- Automatisierte Tests mit **JUnit 5**, **Mockito**, **MockMvc** und `@DataJpaTest`
-- Saubere Projektstruktur, Validierung und zentrale Fehlerbehandlung
-- Datenbankmigrationen und lokale Entwicklungsumgebungen mit **Flyway und Docker**
-- Abschluss meiner Bachelorarbeit und Vorbereitung auf den Berufseinstieg
-
----
-
-## Berufliches Ziel
-
-Ab Novermber 2026 suche ich eine Einstiegsposition als **Softwareentwicklerin**.
-
-Besonders interessieren mich Stellen in der **Java-, Backend- oder Full-Stack-Entwicklung**. Ich bin außerdem offen für angrenzende Technologien und Aufgaben, wenn die Position echte Softwareentwicklung, gute Lernmöglichkeiten und die Zusammenarbeit in einem unterstützenden Team bietet.
